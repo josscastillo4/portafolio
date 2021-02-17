@@ -1,0 +1,17 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "portafolio de cinthya segura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portafolio"
+  ],
+  "author": "cinthya segura",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.8"
+  }
+}
